@@ -1,0 +1,6 @@
+[
+    {
+        "name": "busybox",
+        "imageUri": "busybox"
+    }
+]
