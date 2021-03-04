@@ -1,0 +1,9 @@
+--- 
+phases: 
+  build: 
+    commands: 
+      - "echo Build started on `date`"
+      - "echo Building the Docker image..."
+      - "docker build -t dwtaylornz/aws-hello-world ."
+      - "docker tag dwtaylornz/aws-hello-world dwtaylornz/aws-hello-world:latest"
+version: 0.1
