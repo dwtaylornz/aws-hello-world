@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hello-world",
+    "imageUri": "883071759366.dkr.ecr.ap-southeast-2.amazonaws.com/hello-world:prod"
+  }
+]
